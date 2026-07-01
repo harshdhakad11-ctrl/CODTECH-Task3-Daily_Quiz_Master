@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "option1": "New Delhi",
+    "option2": "Mumbai",
+    "option3": "Kolkata",
+    "option4": "Chennai",
+    "answer": "New Delhi",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest continent in the world?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Europe",
+    "option4": "North America",
+    "answer": "Asia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "option1": "Pacific Ocean",
+    "option2": "Atlantic Ocean",
+    "option3": "Indian Ocean",
+    "option4": "Arctic Ocean",
+    "answer": "Pacific Ocean",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Jawaharlal Nehru",
+    "option3": "Subhas Chandra Bose",
+    "option4": "Sardar Patel",
+    "answer": "Mahatma Gandhi",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "option1": "Mars",
+    "option2": "Venus",
+    "option3": "Jupiter",
+    "option4": "Mercury",
+    "answer": "Mars",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "option1": "Tiger",
+    "option2": "Lion",
+    "option3": "Elephant",
+    "option4": "Leopard",
+    "answer": "Tiger",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "option1": "Peacock",
+    "option2": "Parrot",
+    "option3": "Sparrow",
+    "option4": "Pigeon",
+    "answer": "Peacock",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many states are there in India?",
+    "option1": "28",
+    "option2": "29",
+    "option3": "27",
+    "option4": "30",
+    "answer": "28",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "option1": "Ganga",
+    "option2": "Yamuna",
+    "option3": "Godavari",
+    "option4": "Narmada",
+    "answer": "Ganga",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote the Indian National Anthem?",
+    "option1": "Rabindranath Tagore",
+    "option2": "Bankim Chandra Chatterjee",
+    "option3": "Sarojini Naidu",
+    "option4": "Subramania Bharati",
+    "answer": "Rabindranath Tagore",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the highest mountain in the world?",
+    "option1": "Mount Everest",
+    "option2": "K2",
+    "option3": "Kangchenjunga",
+    "option4": "Makalu",
+    "answer": "Mount Everest",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "option1": "Carbon Dioxide",
+    "option2": "Oxygen",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "answer": "Carbon Dioxide",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "option1": "Alexander Graham Bell",
+    "option2": "Thomas Edison",
+    "option3": "Nikola Tesla",
+    "option4": "James Watt",
+    "answer": "Alexander Graham Bell",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "option1": "Australia",
+    "option2": "Europe",
+    "option3": "Antarctica",
+    "option4": "South America",
+    "answer": "Australia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many players are there in a cricket team?",
+    "option1": "11",
+    "option2": "10",
+    "option3": "12",
+    "option4": "9",
+    "answer": "11",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the currency of Japan?",
+    "option1": "Yen",
+    "option2": "Won",
+    "option3": "Dollar",
+    "option4": "Euro",
+    "answer": "Yen",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Mahatma Gandhi",
+    "option3": "Lal Bahadur Shastri",
+    "option4": "Indira Gandhi",
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "option1": "Sahara Desert",
+    "option2": "Gobi Desert",
+    "option3": "Thar Desert",
+    "option4": "Kalahari Desert",
+    "answer": "Sahara Desert",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who wrote the national song 'Vande Mataram'?",
+    "option1": "Bankim Chandra Chatterjee",
+    "option2": "Rabindranath Tagore",
+    "option3": "Premchand",
+    "option4": "Sarojini Naidu",
+    "answer": "Bankim Chandra Chatterjee",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "option1": "Japan",
+    "option2": "China",
+    "option3": "South Korea",
+    "option4": "Thailand",
+    "answer": "Japan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest planet in our Solar System?",
+    "option1": "Jupiter",
+    "option2": "Saturn",
+    "option3": "Earth",
+    "option4": "Neptune",
+    "answer": "Jupiter",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "option1": "O Negative",
+    "option2": "AB Positive",
+    "option3": "A Positive",
+    "option4": "B Positive",
+    "answer": "O Negative",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "option1": "Isaac Newton",
+    "option2": "Albert Einstein",
+    "option3": "Galileo Galilei",
+    "option4": "Nikola Tesla",
+    "answer": "Isaac Newton",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "option1": "Cheetah",
+    "option2": "Tiger",
+    "option3": "Lion",
+    "option4": "Leopard",
+    "answer": "Cheetah",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights in India?",
+    "option1": "Diwali",
+    "option2": "Holi",
+    "option3": "Eid",
+    "option4": "Christmas",
+    "answer": "Diwali",
+    "difficulty": "Easy"
+  }
+]

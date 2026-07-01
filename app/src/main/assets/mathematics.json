@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What is 15 + 27?",
+    "option1": "42",
+    "option2": "40",
+    "option3": "43",
+    "option4": "44",
+    "answer": "42",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 18 × 5?",
+    "option1": "90",
+    "option2": "80",
+    "option3": "95",
+    "option4": "100",
+    "answer": "90",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the square of 12?",
+    "option1": "144",
+    "option2": "124",
+    "option3": "154",
+    "option4": "142",
+    "answer": "144",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the square root of 225?",
+    "option1": "15",
+    "option2": "14",
+    "option3": "16",
+    "option4": "18",
+    "answer": "15",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 100 ÷ 4?",
+    "option1": "25",
+    "option2": "20",
+    "option3": "24",
+    "option4": "30",
+    "answer": "25",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the value of π (approximately)?",
+    "option1": "3.14",
+    "option2": "3.41",
+    "option3": "2.14",
+    "option4": "4.13",
+    "answer": "3.14",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many degrees are there in a right angle?",
+    "option1": "90",
+    "option2": "45",
+    "option3": "180",
+    "option4": "360",
+    "answer": "90",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "option1": "6",
+    "option2": "5",
+    "option3": "7",
+    "option4": "8",
+    "answer": "6",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 9²?",
+    "option1": "81",
+    "option2": "72",
+    "option3": "91",
+    "option4": "99",
+    "answer": "81",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 7 × 8?",
+    "option1": "56",
+    "option2": "54",
+    "option3": "58",
+    "option4": "64",
+    "answer": "56",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "option1": "12",
+    "option2": "14",
+    "option3": "10",
+    "option4": "16",
+    "answer": "12",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which number is a prime number?",
+    "option1": "13",
+    "option2": "12",
+    "option3": "15",
+    "option4": "21",
+    "answer": "13",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How many months are there in one year?",
+    "option1": "12",
+    "option2": "10",
+    "option3": "11",
+    "option4": "13",
+    "answer": "12",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 50% of 200?",
+    "option1": "100",
+    "option2": "50",
+    "option3": "150",
+    "option4": "120",
+    "answer": "100",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "option1": "20",
+    "option2": "25",
+    "option3": "15",
+    "option4": "10",
+    "answer": "20",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "option1": "3",
+    "option2": "4",
+    "option3": "5",
+    "option4": "6",
+    "answer": "3",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 11 × 11?",
+    "option1": "121",
+    "option2": "111",
+    "option3": "131",
+    "option4": "101",
+    "answer": "121",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest two-digit number?",
+    "option1": "99",
+    "option2": "98",
+    "option3": "100",
+    "option4": "89",
+    "answer": "99",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "option1": "27",
+    "option2": "9",
+    "option3": "18",
+    "option4": "36",
+    "answer": "27",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How many degrees are there in a straight angle?",
+    "option1": "180",
+    "option2": "90",
+    "option3": "360",
+    "option4": "270",
+    "answer": "180",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 13 + 19?",
+    "option1": "32",
+    "option2": "31",
+    "option3": "33",
+    "option4": "34",
+    "answer": "32",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Roman numeral represents 50?",
+    "option1": "L",
+    "option2": "C",
+    "option3": "V",
+    "option4": "X",
+    "answer": "L",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the perimeter of a square with side 5 cm?",
+    "option1": "20 cm",
+    "option2": "25 cm",
+    "option3": "15 cm",
+    "option4": "10 cm",
+    "answer": "20 cm",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is 64 ÷ 8?",
+    "option1": "8",
+    "option2": "6",
+    "option3": "7",
+    "option4": "9",
+    "answer": "8",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which number is divisible by both 2 and 5?",
+    "option1": "40",
+    "option2": "33",
+    "option3": "27",
+    "option4": "19",
+    "answer": "40",
+    "difficulty": "Medium"
+  }
+]

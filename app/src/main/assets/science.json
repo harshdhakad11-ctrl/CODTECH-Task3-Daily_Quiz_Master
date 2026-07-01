@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What is the chemical symbol of water?",
+    "option1": "H2O",
+    "option2": "CO2",
+    "option3": "O2",
+    "option4": "H2",
+    "answer": "H2O",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Venus",
+    "option4": "Jupiter",
+    "answer": "Earth",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the nearest star to Earth?",
+    "option1": "Sun",
+    "option2": "Sirius",
+    "option3": "Alpha Centauri",
+    "option4": "Polaris",
+    "answer": "Sun",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which gas do humans breathe in for survival?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "answer": "Oxygen",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "option1": "100°C",
+    "option2": "90°C",
+    "option3": "80°C",
+    "option4": "120°C",
+    "answer": "100°C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which vitamin is mainly obtained from sunlight?",
+    "option1": "Vitamin D",
+    "option2": "Vitamin A",
+    "option3": "Vitamin C",
+    "option4": "Vitamin B12",
+    "answer": "Vitamin D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "option1": "Diamond",
+    "option2": "Gold",
+    "option3": "Iron",
+    "option4": "Silver",
+    "answer": "Diamond",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "option1": "Heart",
+    "option2": "Lungs",
+    "option3": "Kidney",
+    "option4": "Liver",
+    "answer": "Heart",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which blood cells help fight infections?",
+    "option1": "White Blood Cells",
+    "option2": "Red Blood Cells",
+    "option3": "Platelets",
+    "option4": "Plasma",
+    "answer": "White Blood Cells",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Nitrogen",
+    "option2": "Oxygen",
+    "option3": "Carbon Dioxide",
+    "option4": "Hydrogen",
+    "answer": "Nitrogen",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "option1": "Thermometer",
+    "option2": "Barometer",
+    "option3": "Hygrometer",
+    "option4": "Ammeter",
+    "answer": "Thermometer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "option1": "Nucleus",
+    "option2": "Electron",
+    "option3": "Proton",
+    "option4": "Neutron",
+    "answer": "Nucleus",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which planet is the largest in our Solar System?",
+    "option1": "Jupiter",
+    "option2": "Saturn",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Jupiter",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which force keeps us on the ground?",
+    "option1": "Gravity",
+    "option2": "Magnetism",
+    "option3": "Friction",
+    "option4": "Pressure",
+    "answer": "Gravity",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "option1": "Albert Einstein",
+    "option2": "Isaac Newton",
+    "option3": "Galileo Galilei",
+    "option4": "Nikola Tesla",
+    "answer": "Albert Einstein",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which planet has rings around it?",
+    "option1": "Saturn",
+    "option2": "Mars",
+    "option3": "Mercury",
+    "option4": "Venus",
+    "answer": "Saturn",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the chemical symbol of Gold?",
+    "option1": "Au",
+    "option2": "Ag",
+    "option3": "Go",
+    "option4": "Gd",
+    "answer": "Au",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the chemical symbol of Silver?",
+    "option1": "Ag",
+    "option2": "Au",
+    "option3": "Si",
+    "option4": "S",
+    "answer": "Ag",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which gas is used by plants during photosynthesis?",
+    "option1": "Carbon Dioxide",
+    "option2": "Oxygen",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "answer": "Carbon Dioxide",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which vitamin helps in blood clotting?",
+    "option1": "Vitamin K",
+    "option2": "Vitamin C",
+    "option3": "Vitamin D",
+    "option4": "Vitamin B",
+    "answer": "Vitamin K",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "option1": "Mercury",
+    "option2": "Iron",
+    "option3": "Copper",
+    "option4": "Aluminium",
+    "answer": "Mercury",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest organ in the human body?",
+    "option1": "Skin",
+    "option2": "Heart",
+    "option3": "Liver",
+    "option4": "Brain",
+    "answer": "Skin",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How many bones are there in an adult human body?",
+    "option1": "206",
+    "option2": "208",
+    "option3": "210",
+    "option4": "204",
+    "answer": "206",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Mercury",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "option1": "Newton",
+    "option2": "Joule",
+    "option3": "Pascal",
+    "option4": "Watt",
+    "answer": "Newton",
+    "difficulty": "Medium"
+  }
+]

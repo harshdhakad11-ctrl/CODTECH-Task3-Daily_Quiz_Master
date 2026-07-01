@@ -1,0 +1,903 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "option1": "Central Processing Unit",
+    "option2": "Computer Processing Unit",
+    "option3": "Central Program Unit",
+    "option4": "Control Processing Unit",
+    "answer": "Central Processing Unit",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "option1": "Random Access Memory",
+    "option2": "Read Access Memory",
+    "option3": "Run Access Memory",
+    "option4": "Remote Access Memory",
+    "answer": "Random Access Memory",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device is known as the brain of the computer?",
+    "option1": "CPU",
+    "option2": "RAM",
+    "option3": "Hard Disk",
+    "option4": "Monitor",
+    "answer": "CPU",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device is used to display output?",
+    "option1": "Monitor",
+    "option2": "Keyboard",
+    "option3": "Mouse",
+    "option4": "Scanner",
+    "answer": "Monitor",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device is used to enter text?",
+    "option1": "Keyboard",
+    "option2": "Monitor",
+    "option3": "Speaker",
+    "option4": "Printer",
+    "answer": "Keyboard",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which storage device is permanent?",
+    "option1": "Hard Disk",
+    "option2": "RAM",
+    "option3": "Cache",
+    "option4": "Register",
+    "answer": "Hard Disk",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed Windows?",
+    "option1": "Microsoft",
+    "option2": "Google",
+    "option3": "Apple",
+    "option4": "IBM",
+    "answer": "Microsoft",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which operating system is used on iPhones?",
+    "option1": "iOS",
+    "option2": "Android",
+    "option3": "Windows",
+    "option4": "Linux",
+    "answer": "iOS",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key is used to refresh a webpage?",
+    "option1": "F5",
+    "option2": "F1",
+    "option3": "F10",
+    "option4": "F12",
+    "answer": "F5",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device prints documents?",
+    "option1": "Printer",
+    "option2": "Scanner",
+    "option3": "Monitor",
+    "option4": "Speaker",
+    "answer": "Printer",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed Android?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Apple",
+    "option4": "Intel",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut copies selected text?",
+    "option1": "Ctrl + C",
+    "option2": "Ctrl + V",
+    "option3": "Ctrl + X",
+    "option4": "Ctrl + Z",
+    "answer": "Ctrl + C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut pastes copied text?",
+    "option1": "Ctrl + V",
+    "option2": "Ctrl + C",
+    "option3": "Ctrl + X",
+    "option4": "Ctrl + A",
+    "answer": "Ctrl + V",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut cuts selected text?",
+    "option1": "Ctrl + X",
+    "option2": "Ctrl + V",
+    "option3": "Ctrl + C",
+    "option4": "Ctrl + Y",
+    "answer": "Ctrl + X",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut undoes the last action?",
+    "option1": "Ctrl + Z",
+    "option2": "Ctrl + Y",
+    "option3": "Ctrl + A",
+    "option4": "Ctrl + S",
+    "answer": "Ctrl + Z",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut saves a file?",
+    "option1": "Ctrl + S",
+    "option2": "Ctrl + P",
+    "option3": "Ctrl + N",
+    "option4": "Ctrl + O",
+    "answer": "Ctrl + S",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which browser is developed by Google?",
+    "option1": "Chrome",
+    "option2": "Firefox",
+    "option3": "Edge",
+    "option4": "Safari",
+    "answer": "Chrome",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which browser is developed by Mozilla?",
+    "option1": "Firefox",
+    "option2": "Chrome",
+    "option3": "Edge",
+    "option4": "Opera",
+    "answer": "Firefox",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed the Java programming language?",
+    "option1": "Sun Microsystems",
+    "option2": "Google",
+    "option3": "Microsoft",
+    "option4": "IBM",
+    "answer": "Sun Microsystems",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the full form of USB?",
+    "option1": "Universal Serial Bus",
+    "option2": "Universal System Bus",
+    "option3": "United Serial Bus",
+    "option4": "Universal Storage Bus",
+    "answer": "Universal Serial Bus",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which memory is volatile?",
+    "option1": "RAM",
+    "option2": "ROM",
+    "option3": "Hard Disk",
+    "option4": "SSD",
+    "answer": "RAM",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the full form of ROM?",
+    "option1": "Read Only Memory",
+    "option2": "Random Only Memory",
+    "option3": "Read Open Memory",
+    "option4": "Run Only Memory",
+    "answer": "Read Only Memory",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device scans paper documents?",
+    "option1": "Scanner",
+    "option2": "Printer",
+    "option3": "Monitor",
+    "option4": "Speaker",
+    "answer": "Scanner",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which software is used to create presentations?",
+    "option1": "Microsoft PowerPoint",
+    "option2": "Microsoft Word",
+    "option3": "Microsoft Excel",
+    "option4": "Paint",
+    "answer": "Microsoft PowerPoint",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which software is used for spreadsheets?",
+    "option1": "Microsoft Excel",
+    "option2": "Microsoft Word",
+    "option3": "PowerPoint",
+    "option4": "Notepad",
+    "answer": "Microsoft Excel",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key combination selects all text?",
+    "option1": "Ctrl + A",
+    "option2": "Ctrl + C",
+    "option3": "Ctrl + X",
+    "option4": "Ctrl + V",
+    "answer": "Ctrl + A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key is commonly used to rename a selected file in Windows?",
+    "option1": "F2",
+    "option2": "F3",
+    "option3": "F4",
+    "option4": "F5",
+    "answer": "F2",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does SSD stand for?",
+    "option1": "Solid State Drive",
+    "option2": "System Storage Drive",
+    "option3": "Solid Storage Disk",
+    "option4": "System State Disk",
+    "answer": "Solid State Drive",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of these is an input device?",
+    "option1": "Mouse",
+    "option2": "Monitor",
+    "option3": "Printer",
+    "option4": "Speaker",
+    "answer": "Mouse",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of these is an output device?",
+    "option1": "Speaker",
+    "option2": "Keyboard",
+    "option3": "Mouse",
+    "option4": "Scanner",
+    "answer": "Speaker",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the default file extension of Microsoft Word documents (latest versions)?",
+    "option1": ".docx",
+    "option2": ".txt",
+    "option3": ".pdf",
+    "option4": ".xls",
+    "answer": ".docx",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the default file extension of Microsoft Excel files?",
+    "option1": ".xlsx",
+    "option2": ".pptx",
+    "option3": ".docx",
+    "option4": ".exe",
+    "answer": ".xlsx",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which software is mainly used to browse the Internet?",
+    "option1": "Web Browser",
+    "option2": "Compiler",
+    "option3": "Database",
+    "option4": "Spreadsheet",
+    "answer": "Web Browser",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which protocol is commonly used to browse websites?",
+    "option1": "HTTP",
+    "option2": "FTP",
+    "option3": "SMTP",
+    "option4": "POP3",
+    "answer": "HTTP",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does URL stand for?",
+    "option1": "Uniform Resource Locator",
+    "option2": "Universal Resource Link",
+    "option3": "Uniform Record Locator",
+    "option4": "Universal Record Link",
+    "answer": "Uniform Resource Locator",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which company developed the Linux kernel?",
+    "option1": "Linus Torvalds",
+    "option2": "Bill Gates",
+    "option3": "Steve Jobs",
+    "option4": "James Gosling",
+    "answer": "Linus Torvalds",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which storage unit is larger?",
+    "option1": "Gigabyte",
+    "option2": "Megabyte",
+    "option3": "Kilobyte",
+    "option4": "Byte",
+    "answer": "Gigabyte",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does Wi-Fi primarily provide?",
+    "option1": "Wireless Internet Connection",
+    "option2": "Computer Storage",
+    "option3": "Operating System",
+    "option4": "Antivirus Protection",
+    "answer": "Wireless Internet Connection",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of these is an antivirus software?",
+    "option1": "Quick Heal",
+    "option2": "MS Paint",
+    "option3": "Notepad",
+    "option4": "Calculator",
+    "answer": "Quick Heal",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is phishing?",
+    "option1": "An online fraud technique",
+    "option2": "A search engine",
+    "option3": "A programming language",
+    "option4": "A web browser",
+    "answer": "An online fraud technique",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which key opens the Start Menu in Windows?",
+    "option1": "Windows Key",
+    "option2": "Alt",
+    "option3": "Tab",
+    "option4": "Esc",
+    "answer": "Windows Key",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does PDF stand for?",
+    "option1": "Portable Document Format",
+    "option2": "Personal Data File",
+    "option3": "Print Document Format",
+    "option4": "Program Data File",
+    "answer": "Portable Document Format",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company develops the Chrome browser?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Apple",
+    "option4": "Mozilla",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key is used to close the active window in Windows?",
+    "option1": "Alt + F4",
+    "option2": "Ctrl + F4",
+    "option3": "Shift + F4",
+    "option4": "F12",
+    "answer": "Alt + F4",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the full form of GUI?",
+    "option1": "Graphical User Interface",
+    "option2": "General User Interface",
+    "option3": "Graph User Internet",
+    "option4": "Global User Interface",
+    "answer": "Graphical User Interface",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which device connects a computer to a network?",
+    "option1": "Network Interface Card",
+    "option2": "Monitor",
+    "option3": "Printer",
+    "option4": "Speaker",
+    "answer": "Network Interface Card",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which file extension is used for PDF files?",
+    "option1": ".pdf",
+    "option2": ".doc",
+    "option3": ".xls",
+    "option4": ".ppt",
+    "answer": ".pdf",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which memory stores the BIOS program?",
+    "option1": "ROM",
+    "option2": "RAM",
+    "option3": "Cache",
+    "option4": "SSD",
+    "answer": "ROM",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "option1": "Manage computer hardware and software",
+    "option2": "Create presentations",
+    "option3": "Browse the Internet",
+    "option4": "Edit images",
+    "answer": "Manage computer hardware and software",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "option1": "Google Drive",
+    "option2": "VLC Media Player",
+    "option3": "MS Paint",
+    "option4": "Notepad",
+    "answer": "Google Drive",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does LAN stand for?",
+    "option1": "Local Area Network",
+    "option2": "Large Area Network",
+    "option3": "Local Access Network",
+    "option4": "Limited Area Network",
+    "answer": "Local Area Network",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does WAN stand for?",
+    "option1": "Wide Area Network",
+    "option2": "Wireless Area Network",
+    "option3": "Web Area Network",
+    "option4": "Wide Access Network",
+    "answer": "Wide Area Network",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which device forwards data packets between networks?",
+    "option1": "Router",
+    "option2": "Monitor",
+    "option3": "Keyboard",
+    "option4": "Scanner",
+    "answer": "Router",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which device connects multiple computers in a LAN?",
+    "option1": "Switch",
+    "option2": "Printer",
+    "option3": "Projector",
+    "option4": "Speaker",
+    "answer": "Switch",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which language is understood directly by the CPU?",
+    "option1": "Machine Language",
+    "option2": "Java",
+    "option3": "Python",
+    "option4": "C++",
+    "answer": "Machine Language",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which programming language is widely used for Android development?",
+    "option1": "Java",
+    "option2": "COBOL",
+    "option3": "Pascal",
+    "option4": "Fortran",
+    "answer": "Java",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which programming language is officially recommended by Google for Android development?",
+    "option1": "Kotlin",
+    "option2": "PHP",
+    "option3": "Ruby",
+    "option4": "Swift",
+    "answer": "Kotlin",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which symbol is used for single-line comments in Java?",
+    "option1": "//",
+    "option2": "/*",
+    "option3": "#",
+    "option4": "<!--",
+    "answer": "//",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed Java?",
+    "option1": "Sun Microsystems",
+    "option2": "IBM",
+    "option3": "Apple",
+    "option4": "Intel",
+    "answer": "Sun Microsystems",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which software is used to write Java code?",
+    "option1": "Android Studio",
+    "option2": "VLC",
+    "option3": "Photoshop",
+    "option4": "Excel",
+    "answer": "Android Studio",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "option1": "HyperText Markup Language",
+    "option2": "Hyper Transfer Markup Language",
+    "option3": "Home Tool Markup Language",
+    "option4": "Hyper Tool Multi Language",
+    "answer": "HyperText Markup Language",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "option1": "Cascading Style Sheets",
+    "option2": "Computer Style Sheets",
+    "option3": "Creative Style System",
+    "option4": "Color Style Sheets",
+    "answer": "Cascading Style Sheets",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does WWW stand for?",
+    "option1": "World Wide Web",
+    "option2": "World Web Wide",
+    "option3": "Wide World Web",
+    "option4": "Web World Wide",
+    "answer": "World Wide Web",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which search engine is the most widely used?",
+    "option1": "Google",
+    "option2": "Yahoo",
+    "option3": "Bing",
+    "option4": "DuckDuckGo",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns YouTube?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Meta",
+    "option4": "Amazon",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns Instagram?",
+    "option1": "Meta",
+    "option2": "Google",
+    "option3": "Apple",
+    "option4": "Microsoft",
+    "answer": "Meta",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns WhatsApp?",
+    "option1": "Meta",
+    "option2": "Google",
+    "option3": "Amazon",
+    "option4": "IBM",
+    "answer": "Meta",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key opens File Explorer in Windows?",
+    "option1": "Windows + E",
+    "option2": "Windows + R",
+    "option3": "Ctrl + E",
+    "option4": "Alt + E",
+    "answer": "Windows + E",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which shortcut locks a Windows computer?",
+    "option1": "Windows + L",
+    "option2": "Ctrl + L",
+    "option3": "Alt + L",
+    "option4": "Shift + L",
+    "answer": "Windows + L",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which key opens the Run dialog box?",
+    "option1": "Windows + R",
+    "option2": "Windows + P",
+    "option3": "Ctrl + R",
+    "option4": "Alt + R",
+    "answer": "Windows + R",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the Internet?",
+    "option1": "FTP",
+    "option2": "HTTP",
+    "option3": "SMTP",
+    "option4": "POP3",
+    "answer": "FTP",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which protocol is mainly used for sending emails?",
+    "option1": "SMTP",
+    "option2": "FTP",
+    "option3": "HTTP",
+    "option4": "SSH",
+    "answer": "SMTP",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which protocol is commonly used to receive emails?",
+    "option1": "POP3",
+    "option2": "FTP",
+    "option3": "HTTP",
+    "option4": "TCP",
+    "answer": "POP3",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the binary value of decimal 10?",
+    "option1": "1010",
+    "option2": "1001",
+    "option3": "1110",
+    "option4": "1100",
+    "answer": "1010",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "How many bits are there in one byte?",
+    "option1": "8",
+    "option2": "16",
+    "option3": "32",
+    "option4": "64",
+    "answer": "8",
+    "difficulty": "Easy"
+  }
+,
+  {
+    "question": "Which number system uses only 0 and 1?",
+    "option1": "Binary",
+    "option2": "Decimal",
+    "option3": "Octal",
+    "option4": "Hexadecimal",
+    "answer": "Binary",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company manufactures Ryzen processors?",
+    "option1": "AMD",
+    "option2": "Intel",
+    "option3": "NVIDIA",
+    "option4": "Qualcomm",
+    "answer": "AMD",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which company manufactures Core i5 processors?",
+    "option1": "Intel",
+    "option2": "AMD",
+    "option3": "Apple",
+    "option4": "IBM",
+    "answer": "Intel",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which component stores data permanently?",
+    "option1": "SSD",
+    "option2": "RAM",
+    "option3": "Cache",
+    "option4": "Register",
+    "answer": "SSD",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key deletes the character to the left of the cursor?",
+    "option1": "Backspace",
+    "option2": "Delete",
+    "option3": "Esc",
+    "option4": "Insert",
+    "answer": "Backspace",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key deletes the character to the right of the cursor?",
+    "option1": "Delete",
+    "option2": "Backspace",
+    "option3": "Tab",
+    "option4": "Home",
+    "answer": "Delete",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which key is used to move to the next field in a form?",
+    "option1": "Tab",
+    "option2": "Shift",
+    "option3": "Ctrl",
+    "option4": "Alt",
+    "answer": "Tab",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed Microsoft Office?",
+    "option1": "Microsoft",
+    "option2": "Google",
+    "option3": "Apple",
+    "option4": "Oracle",
+    "answer": "Microsoft",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which application is mainly used to create documents?",
+    "option1": "Microsoft Word",
+    "option2": "Microsoft Excel",
+    "option3": "PowerPoint",
+    "option4": "Paint",
+    "answer": "Microsoft Word",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which application is mainly used to edit images?",
+    "option1": "Adobe Photoshop",
+    "option2": "Excel",
+    "option3": "Notepad",
+    "option4": "Word",
+    "answer": "Adobe Photoshop",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which company develops Photoshop?",
+    "option1": "Adobe",
+    "option2": "Google",
+    "option3": "Microsoft",
+    "option4": "Apple",
+    "answer": "Adobe",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which operating system is open source?",
+    "option1": "Linux",
+    "option2": "Windows",
+    "option3": "macOS",
+    "option4": "iOS",
+    "answer": "Linux",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which company developed macOS?",
+    "option1": "Apple",
+    "option2": "Microsoft",
+    "option3": "Google",
+    "option4": "IBM",
+    "answer": "Apple",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the default search engine in Google Chrome?",
+    "option1": "Google",
+    "option2": "Yahoo",
+    "option3": "Bing",
+    "option4": "DuckDuckGo",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which file extension is commonly used for Java source files?",
+    "option1": ".java",
+    "option2": ".class",
+    "option3": ".jar",
+    "option4": ".exe",
+    "answer": ".java",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which extension is generated after compiling a Java program?",
+    "option1": ".class",
+    "option2": ".java",
+    "option3": ".jar",
+    "option4": ".txt",
+    "answer": ".class",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does AI stand for?",
+    "option1": "Artificial Intelligence",
+    "option2": "Automatic Internet",
+    "option3": "Advanced Interface",
+    "option4": "Artificial Internet",
+    "answer": "Artificial Intelligence",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which technology is used to identify human fingerprints on smartphones?",
+    "option1": "Biometric Authentication",
+    "option2": "Bluetooth",
+    "option3": "Wi-Fi",
+    "option4": "GPS",
+    "answer": "Biometric Authentication",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does GPS stand for?",
+    "option1": "Global Positioning System",
+    "option2": "General Positioning Service",
+    "option3": "Global Programming System",
+    "option4": "Geographic Program Service",
+    "answer": "Global Positioning System",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed ChatGPT?",
+    "option1": "OpenAI",
+    "option2": "Google",
+    "option3": "Microsoft",
+    "option4": "Meta",
+    "answer": "OpenAI",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns Windows?",
+    "option1": "Microsoft",
+    "option2": "Google",
+    "option3": "Apple",
+    "option4": "IBM",
+    "answer": "Microsoft",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the full form of CPU?",
+    "option1": "Central Processing Unit",
+    "option2": "Central Program Unit",
+    "option3": "Computer Processing Unit",
+    "option4": "Control Program Unit",
+    "answer": "Central Processing Unit",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the full form of RAM?",
+    "option1": "Random Access Memory",
+    "option2": "Read Access Memory",
+    "option3": "Rapid Access Memory",
+    "option4": "Random Allocation Memory",
+    "answer": "Random Access Memory",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company develops Android Studio?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Oracle",
+    "option4": "Apple",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which shortcut opens Task Manager directly in Windows?",
+    "option1": "Ctrl + Shift + Esc",
+    "option2": "Ctrl + Alt + Del",
+    "option3": "Alt + Tab",
+    "option4": "Windows + D",
+    "answer": "Ctrl + Shift + Esc",
+    "difficulty": "Medium"
+  }
+]

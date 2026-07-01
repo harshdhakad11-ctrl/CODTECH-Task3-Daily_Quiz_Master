@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111348770413",
+    "project_id": "daily-quiz-master-b4005",
+    "storage_bucket": "daily-quiz-master-b4005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111348770413:android:f454e2cad6047d97884164",
+        "android_client_info": {
+          "package_name": "com.dhakad.dailyquizmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GTNEKHHJ5AHbA4h0vUIOjD679289L2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

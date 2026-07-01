@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Which country won the ICC Cricket World Cup 2023?",
+    "option1": "Australia",
+    "option2": "India",
+    "option3": "England",
+    "option4": "New Zealand",
+    "answer": "Australia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many players are there in a cricket team?",
+    "option1": "11",
+    "option2": "10",
+    "option3": "12",
+    "option4": "9",
+    "answer": "11",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country invented cricket?",
+    "option1": "England",
+    "option2": "India",
+    "option3": "Australia",
+    "option4": "South Africa",
+    "answer": "England",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "option1": "Badminton",
+    "option2": "Tennis",
+    "option3": "Squash",
+    "option4": "Table Tennis",
+    "answer": "Badminton",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many rings are there in the Olympic logo?",
+    "option1": "5",
+    "option2": "4",
+    "option3": "6",
+    "option4": "7",
+    "answer": "5",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "option1": "France",
+    "option2": "Japan",
+    "option3": "USA",
+    "option4": "China",
+    "answer": "France",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who is known as the 'God of Cricket'?",
+    "option1": "Sachin Tendulkar",
+    "option2": "Virat Kohli",
+    "option3": "MS Dhoni",
+    "option4": "Kapil Dev",
+    "answer": "Sachin Tendulkar",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sport is associated with Wimbledon?",
+    "option1": "Tennis",
+    "option2": "Cricket",
+    "option3": "Football",
+    "option4": "Golf",
+    "answer": "Tennis",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2022?",
+    "option1": "Argentina",
+    "option2": "France",
+    "option3": "Brazil",
+    "option4": "Germany",
+    "answer": "Argentina",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many players are there in a football team on the field?",
+    "option1": "11",
+    "option2": "10",
+    "option3": "9",
+    "option4": "12",
+    "answer": "11",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country hosts the Wimbledon Championship?",
+    "option1": "England",
+    "option2": "USA",
+    "option3": "France",
+    "option4": "Australia",
+    "answer": "England",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who won the ICC Men's T20 World Cup 2024?",
+    "option1": "India",
+    "option2": "South Africa",
+    "option3": "Australia",
+    "option4": "England",
+    "answer": "India",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which sport is played at Lord's Stadium?",
+    "option1": "Cricket",
+    "option2": "Football",
+    "option3": "Rugby",
+    "option4": "Hockey",
+    "answer": "Cricket",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian player is known as 'Captain Cool'?",
+    "option1": "MS Dhoni",
+    "option2": "Virat Kohli",
+    "option3": "Rohit Sharma",
+    "option4": "Kapil Dev",
+    "answer": "MS Dhoni",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "option1": "Brazil",
+    "option2": "Germany",
+    "option3": "Argentina",
+    "option4": "Italy",
+    "answer": "Brazil",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which sport uses the term 'Checkmate'?",
+    "option1": "Chess",
+    "option2": "Boxing",
+    "option3": "Tennis",
+    "option4": "Badminton",
+    "answer": "Chess",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many holes are there in a standard round of golf?",
+    "option1": "18",
+    "option2": "12",
+    "option3": "20",
+    "option4": "24",
+    "answer": "18",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which country won the ICC Champions Trophy 2017?",
+    "option1": "Pakistan",
+    "option2": "India",
+    "option3": "Australia",
+    "option4": "England",
+    "answer": "Pakistan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which Indian city hosted the 2010 Commonwealth Games?",
+    "option1": "New Delhi",
+    "option2": "Mumbai",
+    "option3": "Chennai",
+    "option4": "Kolkata",
+    "answer": "New Delhi",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sport is PV Sindhu famous for?",
+    "option1": "Badminton",
+    "option2": "Tennis",
+    "option3": "Hockey",
+    "option4": "Athletics",
+    "answer": "Badminton",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sport is Neeraj Chopra associated with?",
+    "option1": "Javelin Throw",
+    "option2": "Shot Put",
+    "option3": "High Jump",
+    "option4": "Discus Throw",
+    "answer": "Javelin Throw",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country hosts the Tour de France?",
+    "option1": "France",
+    "option2": "Italy",
+    "option3": "Spain",
+    "option4": "Belgium",
+    "answer": "France",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How often are the Olympic Games held?",
+    "option1": "Every 4 years",
+    "option2": "Every 2 years",
+    "option3": "Every 3 years",
+    "option4": "Every year",
+    "answer": "Every 4 years",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian cricketer is known as the 'Hitman'?",
+    "option1": "Rohit Sharma",
+    "option2": "Virat Kohli",
+    "option3": "KL Rahul",
+    "option4": "Shikhar Dhawan",
+    "answer": "Rohit Sharma",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sport is associated with the Davis Cup?",
+    "option1": "Tennis",
+    "option2": "Football",
+    "option3": "Basketball",
+    "option4": "Volleyball",
+    "answer": "Tennis",
+    "difficulty": "Medium"
+  }
+]

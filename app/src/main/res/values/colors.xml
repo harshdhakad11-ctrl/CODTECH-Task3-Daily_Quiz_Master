@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Theme Colors -->
+    <color name="purple_dark">#12052D</color>
+    <color name="purple_card">#22114A</color>
+    <color name="purple_light">#6E3BFF</color>
+
+    <!-- Accent Colors -->
+    <color name="gold">#FFC107</color>
+
+    <!-- Login Button Gradient -->
+    <color name="button_start">#FF8A00</color>
+    <color name="button_end">#FF3D77</color>
+
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="hint_color">#BDBDBD</color>
+
+    <!-- EditText -->
+    <color name="edit_bg">#F5F2FA</color>
+    <color name="correct_green">#4CAF50</color>
+    <color name="wrong_red">#F44336</color>
+</resources>

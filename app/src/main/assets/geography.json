@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Which is the largest continent in the world?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Europe",
+    "option4": "Australia",
+    "answer": "Asia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "option1": "Pacific Ocean",
+    "option2": "Atlantic Ocean",
+    "option3": "Indian Ocean",
+    "option4": "Arctic Ocean",
+    "answer": "Pacific Ocean",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "option1": "Nile",
+    "option2": "Amazon",
+    "option3": "Yangtze",
+    "option4": "Mississippi",
+    "answer": "Nile",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the highest mountain in the world?",
+    "option1": "Mount Everest",
+    "option2": "K2",
+    "option3": "Kangchenjunga",
+    "option4": "Makalu",
+    "answer": "Mount Everest",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "option1": "Canberra",
+    "option2": "Sydney",
+    "option3": "Melbourne",
+    "option4": "Perth",
+    "answer": "Canberra",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "option1": "Sahara",
+    "option2": "Thar",
+    "option3": "Gobi",
+    "option4": "Kalahari",
+    "answer": "Sahara",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "option1": "Japan",
+    "option2": "China",
+    "option3": "Thailand",
+    "option4": "South Korea",
+    "answer": "Japan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "option1": "Australia",
+    "option2": "Europe",
+    "option3": "Antarctica",
+    "option4": "South America",
+    "answer": "Australia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which river is known as the Ganga of South India?",
+    "option1": "Godavari",
+    "option2": "Krishna",
+    "option3": "Kaveri",
+    "option4": "Narmada",
+    "answer": "Godavari",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the largest country in the world by area?",
+    "option1": "Russia",
+    "option2": "Canada",
+    "option3": "China",
+    "option4": "USA",
+    "answer": "Russia",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+    "option1": "Equator",
+    "option2": "Prime Meridian",
+    "option3": "Tropic of Cancer",
+    "option4": "Arctic Circle",
+    "answer": "Equator",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which ocean lies to the south of India?",
+    "option1": "Indian Ocean",
+    "option2": "Pacific Ocean",
+    "option3": "Atlantic Ocean",
+    "option4": "Arctic Ocean",
+    "answer": "Indian Ocean",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the capital of Canada?",
+    "option1": "Ottawa",
+    "option2": "Toronto",
+    "option3": "Vancouver",
+    "option4": "Montreal",
+    "answer": "Ottawa",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "option1": "Africa",
+    "option2": "Asia",
+    "option3": "Europe",
+    "option4": "South America",
+    "answer": "Africa",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the deepest ocean in the world?",
+    "option1": "Pacific Ocean",
+    "option2": "Atlantic Ocean",
+    "option3": "Indian Ocean",
+    "option4": "Southern Ocean",
+    "answer": "Pacific Ocean",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which country has the largest population?",
+    "option1": "India",
+    "option2": "China",
+    "option3": "USA",
+    "option4": "Indonesia",
+    "answer": "India",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "option1": "Ganga",
+    "option2": "Yamuna",
+    "option3": "Godavari",
+    "option4": "Narmada",
+    "answer": "Ganga",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country shares the longest border with India?",
+    "option1": "Bangladesh",
+    "option2": "China",
+    "option3": "Pakistan",
+    "option4": "Nepal",
+    "answer": "Bangladesh",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which is the coldest continent?",
+    "option1": "Antarctica",
+    "option2": "Europe",
+    "option3": "Asia",
+    "option4": "North America",
+    "answer": "Antarctica",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "option1": "France",
+    "option2": "Italy",
+    "option3": "Germany",
+    "option4": "Spain",
+    "answer": "France",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "option1": "Gujarat",
+    "option2": "Tamil Nadu",
+    "option3": "Maharashtra",
+    "option4": "Kerala",
+    "answer": "Gujarat",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the capital of Brazil?",
+    "option1": "Brasília",
+    "option2": "Rio de Janeiro",
+    "option3": "São Paulo",
+    "option4": "Salvador",
+    "answer": "Brasília",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the imaginary line passing through both poles called?",
+    "option1": "Longitude",
+    "option2": "Latitude",
+    "option3": "Equator",
+    "option4": "Tropic of Capricorn",
+    "answer": "Longitude",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "option1": "Greenland",
+    "option2": "Australia",
+    "option3": "Madagascar",
+    "option4": "Borneo",
+    "answer": "Greenland",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which country is known as the Land of Thousand Lakes?",
+    "option1": "Finland",
+    "option2": "Norway",
+    "option3": "Sweden",
+    "option4": "Iceland",
+    "answer": "Finland",
+    "difficulty": "Hard"
+  }
+]

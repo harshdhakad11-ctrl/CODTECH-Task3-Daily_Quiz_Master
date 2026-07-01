@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "option1": "France",
+    "option2": "Japan",
+    "option3": "USA",
+    "option4": "Australia",
+    "answer": "France",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which city hosted the 2024 Summer Olympics?",
+    "option1": "Paris",
+    "option2": "London",
+    "option3": "Tokyo",
+    "option4": "Los Angeles",
+    "answer": "Paris",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who is the Prime Minister of India in 2025?",
+    "option1": "Narendra Modi",
+    "option2": "Rahul Gandhi",
+    "option3": "Amit Shah",
+    "option4": "Yogi Adityanath",
+    "answer": "Narendra Modi",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who is the President of India in 2025?",
+    "option1": "Droupadi Murmu",
+    "option2": "Ram Nath Kovind",
+    "option3": "Jagdeep Dhankhar",
+    "option4": "Narendra Modi",
+    "answer": "Droupadi Murmu",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country won the ICC Men's T20 World Cup 2024?",
+    "option1": "India",
+    "option2": "South Africa",
+    "option3": "Australia",
+    "option4": "England",
+    "answer": "India",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who captained India in the ICC Men's T20 World Cup 2024 final?",
+    "option1": "Rohit Sharma",
+    "option2": "Virat Kohli",
+    "option3": "Hardik Pandya",
+    "option4": "KL Rahul",
+    "answer": "Rohit Sharma",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian athlete won a silver medal in javelin at the Paris Olympics 2024?",
+    "option1": "Neeraj Chopra",
+    "option2": "Arshad Nadeem",
+    "option3": "Kishore Jena",
+    "option4": "DP Manu",
+    "answer": "Neeraj Chopra",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which organization conducted the Chandrayaan-3 mission?",
+    "option1": "ISRO",
+    "option2": "NASA",
+    "option3": "ESA",
+    "option4": "SpaceX",
+    "answer": "ISRO",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which rover landed on the Moon during Chandrayaan-3?",
+    "option1": "Pragyan",
+    "option2": "Vikram",
+    "option3": "Aditya",
+    "option4": "Gaganyaan",
+    "answer": "Pragyan",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which mission studies the Sun by ISRO?",
+    "option1": "Aditya-L1",
+    "option2": "Chandrayaan-2",
+    "option3": "Mangalyaan",
+    "option4": "Gaganyaan",
+    "answer": "Aditya-L1",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country hosted the G20 Summit 2023?",
+    "option1": "India",
+    "option2": "Brazil",
+    "option3": "Indonesia",
+    "option4": "Italy",
+    "answer": "India",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is India's digital payment system called?",
+    "option1": "UPI",
+    "option2": "RuPay",
+    "option3": "NEFT",
+    "option4": "RTGS",
+    "answer": "UPI",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian city hosted the G20 Leaders' Summit 2023?",
+    "option1": "New Delhi",
+    "option2": "Mumbai",
+    "option3": "Bengaluru",
+    "option4": "Hyderabad",
+    "answer": "New Delhi",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which Indian payment interface has become globally popular?",
+    "option1": "UPI",
+    "option2": "Paytm Wallet",
+    "option3": "NEFT",
+    "option4": "IMPS",
+    "answer": "UPI",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company developed ChatGPT?",
+    "option1": "OpenAI",
+    "option2": "Google",
+    "option3": "Microsoft",
+    "option4": "Meta",
+    "answer": "OpenAI",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Artificial Intelligence is commonly abbreviated as?",
+    "option1": "AI",
+    "option2": "AR",
+    "option3": "ML",
+    "option4": "VR",
+    "answer": "AI",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns Instagram?",
+    "option1": "Meta",
+    "option2": "Google",
+    "option3": "Microsoft",
+    "option4": "Apple",
+    "answer": "Meta",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company owns YouTube?",
+    "option1": "Google",
+    "option2": "Microsoft",
+    "option3": "Meta",
+    "option4": "Amazon",
+    "answer": "Google",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country is preparing to host the 2028 Summer Olympics?",
+    "option1": "USA",
+    "option2": "France",
+    "option3": "Australia",
+    "option4": "Japan",
+    "answer": "USA",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which city will host the 2028 Summer Olympics?",
+    "option1": "Los Angeles",
+    "option2": "New York",
+    "option3": "Chicago",
+    "option4": "Boston",
+    "answer": "Los Angeles",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which Indian mission aims to send astronauts into space?",
+    "option1": "Gaganyaan",
+    "option2": "Chandrayaan",
+    "option3": "Aditya-L1",
+    "option4": "Mangalyaan",
+    "answer": "Gaganyaan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does GST stand for in India?",
+    "option1": "Goods and Services Tax",
+    "option2": "General Sales Tax",
+    "option3": "Government Service Tax",
+    "option4": "Global Service Tax",
+    "answer": "Goods and Services Tax",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Indian city is known as the Silicon Valley of India?",
+    "option1": "Bengaluru",
+    "option2": "Hyderabad",
+    "option3": "Pune",
+    "option4": "Chennai",
+    "answer": "Bengaluru",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country successfully landed the Chang'e-6 mission on the far side of the Moon in 2024?",
+    "option1": "China",
+    "option2": "India",
+    "option3": "USA",
+    "option4": "Russia",
+    "answer": "China",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which day is celebrated as International Yoga Day every year?",
+    "option1": "21 June",
+    "option2": "5 June",
+    "option3": "15 August",
+    "option4": "2 October",
+    "answer": "21 June",
+    "difficulty": "Easy"
+  }
+]

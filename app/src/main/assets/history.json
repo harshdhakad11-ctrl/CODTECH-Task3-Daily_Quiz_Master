@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Who was the first Prime Minister of independent India?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Mahatma Gandhi",
+    "option3": "Sardar Patel",
+    "option4": "Lal Bahadur Shastri",
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Subhas Chandra Bose",
+    "option3": "Bhagat Singh",
+    "option4": "Jawaharlal Nehru",
+    "answer": "Mahatma Gandhi",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "option1": "1947",
+    "option2": "1950",
+    "option3": "1945",
+    "option4": "1930",
+    "answer": "1947",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was the first President of India?",
+    "option1": "Dr. Rajendra Prasad",
+    "option2": "Dr. S. Radhakrishnan",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Zakir Husain",
+    "answer": "Dr. Rajendra Prasad",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who founded the Maurya Empire?",
+    "option1": "Chandragupta Maurya",
+    "option2": "Ashoka",
+    "option3": "Bindusara",
+    "option4": "Harsha",
+    "answer": "Chandragupta Maurya",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who was known as Ashoka the Great?",
+    "option1": "Ashoka",
+    "option2": "Akbar",
+    "option3": "Shivaji",
+    "option4": "Harsha",
+    "answer": "Ashoka",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who built the Taj Mahal?",
+    "option1": "Shah Jahan",
+    "option2": "Akbar",
+    "option3": "Babur",
+    "option4": "Aurangzeb",
+    "answer": "Shah Jahan",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was the founder of the Mughal Empire in India?",
+    "option1": "Babur",
+    "option2": "Humayun",
+    "option3": "Akbar",
+    "option4": "Jahangir",
+    "answer": "Babur",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was known as the Iron Man of India?",
+    "option1": "Sardar Vallabhbhai Patel",
+    "option2": "Jawaharlal Nehru",
+    "option3": "Subhas Chandra Bose",
+    "option4": "Lal Bahadur Shastri",
+    "answer": "Sardar Vallabhbhai Patel",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who gave the slogan 'Give me blood, and I shall give you freedom'?",
+    "option1": "Subhas Chandra Bose",
+    "option2": "Bhagat Singh",
+    "option3": "Mahatma Gandhi",
+    "option4": "Bal Gangadhar Tilak",
+    "answer": "Subhas Chandra Bose",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who was the last Mughal emperor?",
+    "option1": "Bahadur Shah Zafar",
+    "option2": "Aurangzeb",
+    "option3": "Akbar II",
+    "option4": "Jahangir",
+    "answer": "Bahadur Shah Zafar",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which battle established British rule in India?",
+    "option1": "Battle of Plassey",
+    "option2": "Battle of Panipat",
+    "option3": "Battle of Haldighati",
+    "option4": "Battle of Buxar",
+    "answer": "Battle of Plassey",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who discovered sea route to India?",
+    "option1": "Vasco da Gama",
+    "option2": "Christopher Columbus",
+    "option3": "Marco Polo",
+    "option4": "Ferdinand Magellan",
+    "answer": "Vasco da Gama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote the Indian National Anthem?",
+    "option1": "Rabindranath Tagore",
+    "option2": "Bankim Chandra Chatterjee",
+    "option3": "Sarojini Naidu",
+    "option4": "Premchand",
+    "answer": "Rabindranath Tagore",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote 'Vande Mataram'?",
+    "option1": "Bankim Chandra Chatterjee",
+    "option2": "Rabindranath Tagore",
+    "option3": "Subhas Chandra Bose",
+    "option4": "Mahatma Gandhi",
+    "answer": "Bankim Chandra Chatterjee",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which year was the Constitution of India adopted?",
+    "option1": "1949",
+    "option2": "1950",
+    "option3": "1947",
+    "option4": "1952",
+    "answer": "1949",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When is India's Republic Day celebrated?",
+    "option1": "26 January",
+    "option2": "15 August",
+    "option3": "2 October",
+    "option4": "14 November",
+    "answer": "26 January",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When is India's Independence Day celebrated?",
+    "option1": "15 August",
+    "option2": "26 January",
+    "option3": "2 October",
+    "option4": "1 May",
+    "answer": "15 August",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was the first Governor-General of independent India?",
+    "option1": "Lord Mountbatten",
+    "option2": "C. Rajagopalachari",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Lord Curzon",
+    "answer": "Lord Mountbatten",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who was popularly known as the Nightingale of India?",
+    "option1": "Sarojini Naidu",
+    "option2": "Indira Gandhi",
+    "option3": "Annie Besant",
+    "option4": "Rani Lakshmibai",
+    "answer": "Sarojini Naidu",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who fought in the Revolt of 1857 from Jhansi?",
+    "option1": "Rani Lakshmibai",
+    "option2": "Begum Hazrat Mahal",
+    "option3": "Annie Besant",
+    "option4": "Sarojini Naidu",
+    "answer": "Rani Lakshmibai",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who was called 'Punjab Kesari'?",
+    "option1": "Lala Lajpat Rai",
+    "option2": "Bal Gangadhar Tilak",
+    "option3": "Bipin Chandra Pal",
+    "option4": "Bhagat Singh",
+    "answer": "Lala Lajpat Rai",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who gave the slogan 'Swaraj is my birthright'?",
+    "option1": "Bal Gangadhar Tilak",
+    "option2": "Mahatma Gandhi",
+    "option3": "Subhas Chandra Bose",
+    "option4": "Bhagat Singh",
+    "answer": "Bal Gangadhar Tilak",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who designed the Indian National Flag?",
+    "option1": "Pingali Venkayya",
+    "option2": "Mahatma Gandhi",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Rabindranath Tagore",
+    "answer": "Pingali Venkayya",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which movement was started by Mahatma Gandhi in 1942?",
+    "option1": "Quit India Movement",
+    "option2": "Non-Cooperation Movement",
+    "option3": "Civil Disobedience Movement",
+    "option4": "Swadeshi Movement",
+    "answer": "Quit India Movement",
+    "difficulty": "Medium"
+  }
+]
