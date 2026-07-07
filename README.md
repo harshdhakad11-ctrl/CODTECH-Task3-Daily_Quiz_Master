@@ -1,117 +1,138 @@
-# Quiz Master App
+# 🧠 Quiz Master App
 
-## CODTECH Internship Project
-
-### Intern Details
+## 📌 Intern Information
 
 - **Intern ID:** CITS3045
-- **Full Name:** Harsh Dhakad
+- **Name:** Harsh Dhakad
+- **Company:** CODTECH IT Solutions
 - **Domain:** Android Development
-- **Project Name:** Quiz Master App
-- **Duration:** 4
+- **Duration:** 4 Weeks
 
 ---
 
-## Project Scope
+# 📱 Project Name
 
-Quiz Master is a modern Android quiz application developed using **Java** in **Android Studio**. The app uses **Firebase Authentication** for user login and registration, and **Cloud Firestore** for storing quiz categories, questions, user profiles, scores, and leaderboard data.
-
-### Features
-
-- Splash Screen
-- User Registration
-- User Login
-- Forgot Password
-- Firebase Authentication
-- Home Dashboard
-- Quiz Categories
-- Multiple Choice Questions
-- Countdown Timer
-- Score Calculation
-- Result Screen
-- Leaderboard
-- User Profile
-- Achievements
-- Coins & XP System
-- Material UI Design
+Quiz Master App
 
 ---
 
-## Technologies Used
+# 📖 Project Description
+
+The Quiz Master App is a modern Android quiz application developed using **Java** in **Android Studio**. It uses **Firebase Authentication** for secure user login and registration, while **Cloud Firestore** stores quiz categories, questions, user profiles, scores, and leaderboard data. The app offers an engaging quiz experience with multiple categories, score tracking, achievements, and an attractive Material Design user interface.
+
+---
+
+# ✨ Features
+
+- 🔐 Firebase Authentication (Login & Register)
+- 👤 User Profile
+- 📚 Multiple Quiz Categories
+- ❓ Multiple Choice Questions
+- ⏱ Countdown Timer
+- 🎯 Score Calculation
+- 🏆 Leaderboard
+- 🪙 Coins & Rewards System
+- ⭐ XP & Level Progress
+- 🎖 Achievements
+- 📊 Quiz Result Screen
+- 📈 Performance Statistics
+- 🎨 Modern Material UI
+- 📱 Responsive Design
+
+---
+
+# 🛠 Technologies Used
 
 - Java
 - Android Studio
 - XML
 - Firebase Authentication
 - Cloud Firestore
-- Material Design
+- Material Design Components
 - RecyclerView
 - ConstraintLayout
+- Glide
+- Lottie Animation
 
 ---
 
-## Project Structure
+# 🎯 Project Scope
 
-```
-QuizMaster/
-│
-├── app/
-├── java/
-├── res/
-├── adapters/
-├── models/
-├── activities/
-├── firebase/
-└── utils/
-```
+The Quiz Master App is designed to provide users with an interactive learning experience through quizzes across various categories. It demonstrates the integration of Firebase services with Android development while implementing secure authentication, cloud-based data storage, leaderboard management, and a professional user interface.
 
 ---
 
-## Screenshots
+# 📂 Repository Contains
 
-Add screenshots here.
-
-- Splash Screen
-- Login Screen
-- Home Screen
-- Categories
-- Quiz Screen
-- Result Screen
-- Profile
-- Leaderboard
+- ✔ Source Code
+- ✔ README File
+- ✔ Screenshots
+- ✔ Documentation
+- ✔ Output Images
 
 ---
 
-## Output Images
+# 🚀 Future Improvements
 
-Include application output images in this section.
-
----
-
-## Documentation
-
-This project demonstrates the implementation of a Firebase-based Android Quiz Application. Users can register, log in, play quizzes, earn scores, and compete on the leaderboard. Firebase Authentication handles secure user authentication, while Cloud Firestore stores user data and quiz content.
-
----
-
-## Source Code
-
-The complete source code is available in this GitHub repository.
+- 🌐 Online Multiplayer Quiz
+- 🎤 Voice-Based Questions
+- 🖼 Image-Based Questions
+- 📢 Push Notifications
+- 🌙 Dark Mode
+- 🎁 Daily Rewards
+- 🧩 Daily Challenge
+- 🌍 Multi-Language Support
+- ☁ Firebase Cloud Storage for Profile Images
+- 🤖 AI-Based Quiz Recommendations
 
 ---
 
-## GitHub Repository
+# 📸 Screenshots
 
-Add your GitHub repository link here.
+## Splash Screen
 
-Example:
+![Splash](Screenshots/Splash.png)
 
-https://github.com/yourusername/QuizMaster
+## Login Screen
+
+![Login](Screenshots/Login.png)
+
+## Home Screen
+
+![Home](Screenshots/Home.png)
+
+## Categories Screen
+
+![Categories](Screenshots/Categories.png)
+
+## Quiz Screen
+
+![Quiz](Screenshots/Quiz.png)
+
+## Result Screen
+
+![Result](Screenshots/Result.png)
+
+## Leaderboard
+
+![Leaderboard](Screenshots/Leaderboard.png)
+
+## Profile Screen
+
+![Profile](Screenshots/Profile.png)
 
 ---
 
-## Author
+# 📄 Documentation
 
-**YOUR_FULL_NAME**
+Project Documentation:
+
+- [Quiz_Master_App_Documentation.pdf](Documentation/Quiz_Master_App_Documentation.pdf)
+
+---
+
+# 👨‍💻 Developer
+
+**Harsh Dhakad**
 
 CODTECH Android Development Internship
