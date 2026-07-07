@@ -93,33 +93,37 @@ The Quiz Master App is designed to provide users with an interactive learning ex
 
 ![Splash](Screenshots/Splash_Screen.png)
 
+## Signup Screen
+
+![Signup](Screenshots/SignUp_Screen.png)
+
 ## Login Screen
 
-![Login](Screenshots/Login.png)
+![Login](Screenshots/Login_Screen.png)
 
 ## Home Screen
 
-![Home](Screenshots/Home.png)
+![Home](Screenshots/Home_Screen.png)
 
 ## Categories Screen
 
-![Categories](Screenshots/Categories.png)
+![Categories](Screenshots/Category_Screen.png)
 
 ## Quiz Screen
 
-![Quiz](Screenshots/Quiz.png)
+![Quiz](Screenshots/Question_Screen.png)
 
 ## Result Screen
 
-![Result](Screenshots/Result.png)
+![Result](Screenshots/Result_Screen.png)
 
 ## Leaderboard
 
-![Leaderboard](Screenshots/Leaderboard.png)
+![Leaderboard](Screenshots/Leaderboard_Screen.png)
 
 ## Profile Screen
 
-![Profile](Screenshots/Profile.png)
+![Profile](Screenshots/Profile_Screen.png)
 
 ---
 
