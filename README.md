@@ -91,7 +91,7 @@ The Quiz Master App is designed to provide users with an interactive learning ex
 
 ## Splash Screen
 
-![Splash](Screenshots/Splash.png)
+![Splash](Screenshots/Splash_Screen.png)
 
 ## Login Screen
 
