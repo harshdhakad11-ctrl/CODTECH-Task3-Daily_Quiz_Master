@@ -123,7 +123,7 @@ The Quiz Master App is designed to provide users with an interactive learning ex
 
 ## Profile Screen
 
-![Profile](Screenshots/Profile_Screen.png)
+![Profile](Screenshots/Profile-Screen.png)
 
 ---
 
