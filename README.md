@@ -131,7 +131,7 @@ The Quiz Master App is designed to provide users with an interactive learning ex
 
 Project Documentation:
 
-- [Quiz_Master_App_Documentation.pdf](Documentation/Quiz_Master_App_Documentation.pdf)
+- [Quiz_Master_App_Documentation.pdf](Documentation/Daily_Quiz_Master_App_Documentation.pdf)
 
 ---
 
