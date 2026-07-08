@@ -1,4 +1,4 @@
-# 🧠 Quiz Master App
+# 🧠 Daily Quiz Master App
 
 ## 📌 Intern Information
 
@@ -12,7 +12,7 @@
 
 # 📱 Project Name
 
-Quiz Master App
+Daily Quiz Master App
 
 ---
 
@@ -58,7 +58,7 @@ The Quiz Master App is a modern Android quiz application developed using **Java*
 
 # 🎯 Project Scope
 
-The Quiz Master App is designed to provide users with an interactive learning experience through quizzes across various categories. It demonstrates the integration of Firebase services with Android development while implementing secure authentication, cloud-based data storage, leaderboard management, and a professional user interface.
+The Daily Quiz Master App is designed to provide users with an interactive learning experience through quizzes across various categories. It demonstrates the integration of Firebase services with Android development while implementing secure authentication, cloud-based data storage, leaderboard management, and a professional user interface.
 
 ---
 
@@ -131,7 +131,7 @@ The Quiz Master App is designed to provide users with an interactive learning ex
 
 Project Documentation:
 
-- [Quiz_Master_App_Documentation.pdf](Documentation/Daily_Quiz_Master_App_Documentation.pdf)
+- [Daily_Quiz_Master_App_Documentation.pdf](Documentation/Daily_Quiz_Master_App_Documentation.pdf)
 
 ---
 
